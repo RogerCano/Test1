@@ -22,4 +22,4 @@ TODO: Write license
   <tabTrigger>readme</tabTrigger>
 </snippet>
 
-idc
+This is a test, just trying stuff out to make sure this works properly.
